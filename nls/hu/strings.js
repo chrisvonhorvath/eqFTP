@@ -168,7 +168,7 @@ define({
     "CONTEXTM_CREATEFILE" : "Új fájl",
     "CONTEXTM_CREATEFOLDER" : "Új mappa",
 
-    "OTHER_SELECT_SERVER_DROPDOWN" : "Válaszd ki a kiszolgálót...", //Too long hungarian translation
+    "OTHER_SELECT_SERVER_DROPDOWN" : "Válassz kiszolgálót...", //Is it better? :)
     "OTHER_ERROR" : "Hiba!",
     "OTHER_PAUSED" : "Szüneteltetve",
     "OTHER_COMPLETED" : "Elkészült",
